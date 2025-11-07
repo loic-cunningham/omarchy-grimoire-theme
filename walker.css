@@ -1,12 +1,12 @@
 @define-color selected-text #E9E4F5;
 @define-color text #E9E4F5;
-@define-color base #1F1A2E;
+@define-color base #141414;
 @define-color border #5B8FB9;
 @define-color foreground #E9E4F5;
-@define-color background #1F1A2E;
-@define-color selected-gradient linear-gradient(90deg, #3A3457 0%, #4D4266 100%);
-@define-color selected-accent #BD93F9;
-@define-color caret #FF79C6;
+@define-color background #141414;
+@define-color selected-gradient linear-gradient(90deg, #1A1A1A 0%, #333333 100%);
+@define-color selected-accent #A404D7;
+@define-color caret #EC254E;
 @define-color success #6FB3A8;
 @define-color success-alt #8BD0C1;
 

@@ -1,18 +1,18 @@
-# Nagai Twilight palette (machine-readable)
-primary_bg: "#1F1A2E"        # Deep purple-twilight
-secondary_bg: "#1A1625"      # Darker violet-black
-tertiary_bg: "#2D2640"       # Elevated purple surface
-primary_accent: "#BD93F9"    # Violet sunset
-secondary_accent: "#5B8FB9"  # Deeper muted sky blue
-tertiary_accent: "#FF79C6"   # Pink horizon
-text_primary: "#E9E4F5"      # Soft pearl
-text_secondary: "#C8BFD8"    # Muted lavender
-text_dim: "#726693"          # Twilight purple-gray (slightly lifted)
-success: "#6FB3A8"           # Teal-shifted success (green.500)
-warning: "#EADDA6"           # Soft sand
-error: "#FF5555"             # Warm red
-info: "#5B8FB9"              # Deeper muted sky blue
-selection_bg: "#3A3457"
+# Grimoire - A dark cyberpunk palette with mystical purple and crimson accents
+primary_bg: "#141414"        # Near-black void
+secondary_bg: "#1A1A1A"      # Shadow depths
+tertiary_bg: "#333333"       # Ethereal smoke
+primary_accent: "#A404D7"    # Arcane purple
+secondary_accent: "#5B8FB9"  # Mystic blue
+tertiary_accent: "#EC254E"   # Crimson spell
+text_primary: "#E9E4F5"      # Luminous text
+text_secondary: "#C8BFD8"    # Ghostly lavender
+text_dim: "#666666"          # Faded runes
+success: "#6FB3A8"           # Verdant magic
+warning: "#EADDA6"           # Ancient parchment
+error: "#EC254E"             # Blood moon
+info: "#5B8FB9"              # Frost crystal
+selection_bg: "#333333"
 
 green:
   "300": "#A6DACD"  # soft
@@ -23,20 +23,20 @@ green:
 
 # Terminal recommended ANSI (as used in Alacritty config)
 ansi_normal:
-  black:   "#1A1625"
-  red:     "#FF5555"
+  black:   "#141414"
+  red:     "#EC254E"
   green:   "#6FB3A8"
   yellow:  "#EADDA6"
   blue:    "#8BE9FD"
-  magenta: "#BD93F9"
-  cyan:    "#406E82"
+  magenta: "#A404D7"
+  cyan:    "#5B8FB9"
   white:   "#E9E4F5"
 ansi_bright:
-  black:   "#4D4266"
+  black:   "#333333"
   red:     "#FF79C6"
   green:   "#8BD0C1"
   yellow:  "#F1FA8C"
   blue:    "#8BE9FD"
-  magenta: "#BD93F9"
-  cyan:    "#4C84A0"
+  magenta: "#C85FFF"
+  cyan:    "#7AB8E8"
   white:   "#FFFFFF"

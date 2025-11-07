@@ -1,12 +1,12 @@
-name: Nagai Twilight
-slug: nagai-twilight
-version: 0.1.0
-description: "A warm dusk-inspired Omarchy theme with deep twilight hues."
+name: Grimoire
+slug: grimoire
+version: 1.0.0
+description: "A dark cyberpunk theme with mystical purple and crimson accents. Born from terminal sorcery."
 license: MIT
 maintainers:
-  - name: mcw
+  - name: z3dd
     email: ""
-tags: [dark, warm, twilight]
+tags: [dark, cyberpunk, purple, mystical]
 palette: palette.yml
 apps:
   - alacritty

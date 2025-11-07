@@ -1,41 +1,41 @@
 [colors.primary]
-background = "#1F1A2E"
+background = "#141414"
 foreground = "#E9E4F5"
 
 [colors.cursor]
-cursor = "#BD93F9"  # Violet cursor
-text = "#1F1A2E"
+cursor = "#A404D7"  # Purple cursor
+text = "#141414"
 
 [colors.selection]
-background = "#3A3457"
+background = "#333333"
 text = "#E9E4F5"
 
 [colors.normal]
-black   = "#1A1625"
-red     = "#FF5555"
+black   = "#141414"
+red     = "#EC254E"
 green   = "#6FB3A8"
 yellow  = "#EADDA6"
 blue    = "#8BE9FD"
-magenta = "#BD93F9"
-cyan    = "#406E82"
+magenta = "#A404D7"
+cyan    = "#5B8FB9"
 white   = "#E9E4F5"
 
 [colors.bright]
-black   = "#4D4266"
+black   = "#333333"
 red     = "#FF79C6"
 green   = "#8BD0C1"
 yellow  = "#F1FA8C"
 blue    = "#8BE9FD"
-magenta = "#BD93F9"
-cyan    = "#4C84A0"
+magenta = "#C85FFF"
+cyan    = "#7AB8E8"
 white   = "#FFFFFF"
 
 [colors.dim]
-black   = "#1A1625"
-red     = "#FF5555"
+black   = "#1A1A1A"
+red     = "#EC254E"
 green   = "#5AA294"
 yellow  = "#EADDA6"
 blue    = "#5B8FB9"
-magenta = "#BD93F9"
-cyan    = "#355B6B"
+magenta = "#A404D7"
+cyan    = "#5B8FB9"
 white   = "#C8BFD8"
